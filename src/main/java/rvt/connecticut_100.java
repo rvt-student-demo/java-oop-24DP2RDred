@@ -34,5 +34,6 @@ public class connecticut_100 {
                 System.out.println();
             }
         }
+        reader.close();
     }
 }
